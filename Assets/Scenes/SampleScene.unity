@@ -333,13 +333,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 619394800}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: 0.31601828, y: -0.7613344, z: 0.27437675, w: 0.4951968}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 46.951, y: -121.729, z: -17.868}
 --- !u!1 &911977777
 GameObject:
   m_ObjectHideFlags: 0
@@ -371,6 +371,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 338be7da0bb5b6d40bc5804efe9bfffa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Card
+  CardRenderer: {fileID: 911977779}
+  animalSprite: {fileID: 933660661, guid: 68aaed0cdb7b2bc47a95f7e45b3455c0, type: 3}
+  backSprite: {fileID: 1058482590, guid: 510e0a96d0dde6843842afe4cad0b0dc, type: 3}
 --- !u!212 &911977779
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -478,7 +481,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0024856925, y: -0.004975319}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -488,7 +491,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.125, y: 1.55}
+  m_Size: {x: 1.1522998, y: 1.5599504}
   m_EdgeRadius: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

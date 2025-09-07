@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -129,12 +129,12 @@ TextureImporter:
       name: 138920-OTFU5B-604_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2000
-        height: 2000
+        x: 174
+        y: 1105
+        width: 450
+        height: 620
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -147,11 +147,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: 138920-OTFU5B-604_1
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1105
+        width: 450
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51323b0676f22b46875a1c153204a04
+      internalID: 13461983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 138920-OTFU5B-604_2
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1105
+        width: 450
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a532be745edb164cb74c2e5b4c753bc
+      internalID: -982587890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 138920-OTFU5B-604_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 284
+        width: 450
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc49f6415e3f6746ba788d63fc91977
+      internalID: -1371514236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 138920-OTFU5B-604_4
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 284
+        width: 450
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530676be6ef954d4289b60ab78613c87
+      internalID: 1103190738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 138920-OTFU5B-604_5
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 284
+        width: 450
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a7197707914b4282c5aeed95848c0
+      internalID: 933660661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0948e2472cde9a64aa711aa72e813d86
     internalID: 0
     vertices: []
     indices: 
@@ -159,9 +269,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":450.0,"y":620.0},"gridSpriteOffset":{"x":174.0,"y":275.0},"gridSpritePadding":{"x":151.0,"y":201.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       138920-OTFU5B-604_0: 2754514017972358374
+      138920-OTFU5B-604_1: 13461983
+      138920-OTFU5B-604_2: -982587890
+      138920-OTFU5B-604_3: -1371514236
+      138920-OTFU5B-604_4: 1103190738
+      138920-OTFU5B-604_5: 933660661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
